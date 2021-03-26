@@ -32,9 +32,4 @@ else {
     const r = confirm("Произошла ошибка");
 }
 
-
-
-//
-//personalMovieDB.movies[c] = d;
-
 console.log(personalMovieDB.movies);
